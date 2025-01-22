@@ -1,4 +1,4 @@
 circle
 oval
-rectangle
+rhombus
 square
